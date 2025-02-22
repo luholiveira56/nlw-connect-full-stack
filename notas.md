@@ -38,7 +38,14 @@ Coletar os dados
 Processar os dados
 Apresentar os dados
 
+## Links
+
 Front-end Editor: https://www.fronteditor.dev/nlw-19
+Figma do Projeto: https://www.figma.com/design/bEUg1v29EJY2bJ768u07cK/NLW-Connect-%E2%80%A2-DevStage-(Community)?node-id=3-376&p=f&t=CQzNw5MqfkeBfNXG-0
+Guia do Evento: https://efficient-sloth-d85.notion.site/Full-Stack-19d395da577080b4b664e57937353902
+Criar mapa mental: https://whimsical.com/Ae2ojudnEBsYLvLdTw4W6P
+Google Fonts: https://fonts.google.com/selection/embed
+Developer Mozilla: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements
 
 ```js
 // comentários, variáveis, tipos de dados e funções
